@@ -10,7 +10,7 @@
   <description>Selenium Example</description>
 
   <properties> 
-    <selenium.url>http://10.5.140.7:31242/wd/hub</selenium.url>
+    <selenium.url>http://10.5.140.7:32174/wd/hub</selenium.url>
     <selenium.browser>firefox</selenium.browser>
     <sleep>10000</sleep>
   </properties> 
